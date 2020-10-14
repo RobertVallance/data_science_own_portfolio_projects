@@ -2,3 +2,4 @@
 
 - Classification project to predict whether a patient has heart disease
 - Regression project to predict house prices
+- Classification project to predict fraudulent credit card transactions
